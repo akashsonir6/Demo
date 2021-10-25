@@ -6,10 +6,10 @@ const Header = () => {
             <div className="container">
                 <div className="header">
                    <Row>
-    <Col xs={6} md={4}>
+    <Col xs={3} md={4}>
      Company Logo
     </Col>
-    <Col xs={6} md={4}>
+    <Col xs={3} md={4}>
      Search
     </Col>
     <Col xs={6} md={4}>
